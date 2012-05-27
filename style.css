@@ -275,18 +275,14 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 
 .entry-meta .comments-link {
 	padding-left: 20px;
-    /* a hack here: put the tile rightmost to avoid overflowing */
-    /* a hack of offset */
-	background: url(sprites.png) no-repeat -980px -30px;
+	background: url(data:image/gif;base64,R0lGODlhEAAQAOYAAAAAAP////P09ujx/tDj/dHk/dXm/dbn/drp/d3r/tzq/d/s/uDt/uLu/uTv/ubw/uny/vD2/uzv89Dk/dHk/NPm/dTm/dfo/dnp/dvq/d3s/tzr/d7s/uHu/uPv/uXw/ubx/u/z+FqIuW6WwW2VwJ241bHF29Xf6uLo7+Hn7liHuFyKuV2Lul+Mu2yVwG6XwXOaw3ugx32iyIOlyYmqzYmpy5Cvzpm21J+51KnB2qnA2LTJ37nL3sjW5NPe6efu9eTq8PHz9fDy9Pv8/f3+/vf39wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAEUALAAAAAAQABAAAAeAgEWCg4SFhoeGEjYrKo2OKjMphDU5QwGXmAE7LwKCQiJEERAgDh0cGQoBMSeCQC4BAw8eDBoZFwYBND2trx8NDAkIFxYFubtFn0QQCxsYBxUTFAEyPoOURJgNBBCaL0GDiiKNJZchJTCSiCM/JSw6iII4Ny0m8IIoJDz2+/z99oEAOw==) no-repeat center left;
 }
 
 .entry-meta a { }
 
 .entry-meta-index {
 	padding-left: 20px;
-    /* a hack here: put the tile rightmost to avoid overflowing */
-    /* a hack of offset */
-	background: url(sprites.png) no-repeat -983px -48px;
+	background: url(data:image/gif;base64,R0lGODlhEAAQAOYAAAAAAP////7++/7+/P799v799/nssPnttfnttvvzzfvzzvv00/z22Pz22fjooPnopPjoo/npp/npqPnqrPnqrfnssfnstfruuvruu/rvvvrvv/vwwvvww/vxx/vyyvvz0Pz01Pz22/z23P333v333/344/356P356f777v367fzz0fz01fz01v323P323f334f778Pzy2vvx2fXcpvXdqvfjuPfku/bdrfber/fitv/+/PTVnfXXo/joyvLPmPPTpfXWqvXXrPbgvvfhwfnozvXWrvzozf7v2vC+gO+8f+++gfHAg/DAhPHBiPHCiPLEjPHEjPDFjvPHkfHGkPDFj/TJlfTLm/LKmvXOn/PMnvbRpPPOovTRpvbTqfXTqvfWrvXVrvfYsvjatvncuvbauPfcvPnfvvrixfnixfvkyPvmy/rly/zo0P7t2Prgwvrjyff39wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAHAALAAAAAAQABAAAAeggHCCg4SFhoeGR2xGamlnbmZjYmFfhG06mJgDmTpdhGs6BaIEoqICWoRvMCAqCh4dHBoYJViEaCgfrrCyCC9WhGUpCa8bGRcIFSRVhGRENjU5OBcHFRQjUoRFQycmDDcWBhMSLU+EYEA8Kyw04REPIU7mMj47CzMTERAODUuEXjE9fgQR4kJEiAYMkBDisiXLlShUpkBpwkRJEkQYMx4KBAA7) no-repeat center left;
     height: 16px;
     line-height: 16px;
 }

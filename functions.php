@@ -16,6 +16,12 @@ array(  "name" => "Custom Logo",
         "std" => "",
         "type" => "text"),
 
+array( "name" => "Alternate Header",
+	"desc" => "Check this if you would you like to use alternate header image.",
+	"id" => $shortname."_alt_header",
+	"type" => "checkbox",
+	"std" => "false"),		
+
 array(  "name" => "Pages to exclude",
         "desc" => "Select the ID&rsquo;s that you would like to exclude from the top menu (Separate with commas).",
         "id" => $shortname."_exclude_pages",

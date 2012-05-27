@@ -372,15 +372,15 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 #footer a { color: #dceffc; }
 
 #header {
-    background: url(images/header.jpg) no-repeat 0 0;
-	height: 462px;
+    background: url(images/header-narrow.jpg) no-repeat 0 0;
+	height: 250px;
 	margin: 0 auto;
 	overflow: hidden;
 	padding: 0px;
 	position: relative;
 }
 
-#header h1 { text-indent: -1000px; margin: 280px 0 0 80px; }
+#header h1 { text-indent: -1000px; margin: 40px 0 0 20px; }
 
 #header h1 a{ width: 253px; height: 108px; display: block; }
 

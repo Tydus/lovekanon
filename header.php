@@ -40,10 +40,13 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
 <?php
 $desu_logo_url = get_option('x21_logo_url');
 if ($desu_logo_url == "") {
+/*
 echo "#header h1 a {background: url(";
 echo get_bloginfo('template_url');
 #echo "/images/logo.png) no-repeat right bottom;}";
 echo "/sprites.png) no-repeat -703px -273px;}";
+*/
+echo "#header h1 a {background: url(http://tydus.googlecode.com/files/sprites.png) no-repeat -703px -273px;}";
 }
 else { 
 echo "#header h1 a {background: url(".$desu_logo_url.") no-repeat right bottom;}";

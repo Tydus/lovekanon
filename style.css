@@ -34,7 +34,7 @@ blockquote { font-style: oblique; padding:10px; background:#dcdcdc;
 	-opera-border-radius: 5px;}
 
 body {
-	background: #6fc5f4 url(images/side.jpg) no-repeat top center;
+	background: #6fc5f4 url(images/side-trans.jpg) repeat-y top center;
 	font-family: "Trebuchet MS", sans-serif;
 	font-size: 14px;
 	color: #666;

@@ -51,7 +51,7 @@ div.navigation {
 	height: auto;
 	float: left;
 	clear: both;
-	padding: 10px 0px;
+	padding: 10px 0;
 	font-size: 16px;
 }
 
@@ -92,7 +92,7 @@ img.aligncenter { display: block; margin: 1em auto; text-align: center; }
 
 img.alignleft { float: left; clear: none; margin: 0 1em 1em 0; }
 
-img.alignnone { margin: 0 0.5em 0 0; }
+img.alignnone { margin: 0 5em 0 0; }
 
 /* -- ALIGNMENTS --*/
 img.alignright { float: right; clear: none; margin: 0 0 1em 1em; }
@@ -139,9 +139,9 @@ ul { margin: 0; padding: 0; }
 
 ul li { margin-left: 5px; padding: 0; }
 
-ul#nav { margin: 0px; padding: 0px 0px; }
+ul#nav { margin: 0; padding: 0; }
 
-ul#nav li{ margin: 0px; padding: 0px 0px; }
+ul#nav li{ margin: 0; padding: 0; }
 
 ul.children { margin-left: 10px; }
 
@@ -196,7 +196,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 
 .clearthis {
 	display: block;
-	height: 0px;
+	height: 0;
 	clear: both;
 	overflow: hidden;
 }
@@ -372,7 +372,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 	height: 462px;
 	margin: 0 auto;
 	overflow: hidden;
-	padding: 0px;
+	padding: 0;
 	position: relative;
 }
 
@@ -411,7 +411,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 
 #nav li { }
 
-#nav li { float: left; padding: 0px; }
+#nav li { float: left; padding: 0; }
 
 #nav li a, #nav li a:link, #nav li a:visited { }
 
@@ -423,19 +423,19 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 	background: #b7dcf7;
 	width: 150px;
 	float: none;
-	margin: 0px;
+	margin: 0;
 	line-height: 30px;
-	border-bottom: 1px solid #FFFFFF;
-	border-right: 1px solid #FFFFFF;
-	padding: 0px 15px;
+	border-bottom: 1px solid #FFF;
+	border-right: 1px solid #FFF;
+	padding: 0 15px;
 }
 
 #nav li li a:hover, #nav li li a:active {
 	background: #9fd3fa;
-	color: #FFFFFF;
+	color: #FFF;
 	line-height: 30px;
-	margin: 0px;
-	padding: 0px 15px;
+	margin: 0;
+	padding: 0 15px;
 }
 
 #nav li ul {
@@ -444,8 +444,8 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 	left: -999em;
 	height: auto;
 	width: 170px;
-	margin: 0px;
-	padding: 0px;
+	margin: 0;
+	padding: 0;
 }
 
 #nav li ul a { width: 140px; }
@@ -463,8 +463,8 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 #nav ul {
 	float: left;
 	list-style: none;
-	margin: 0px;
-	padding: 0px 0px;
+	margin: 0;
+	padding: 0;
 }
 
 #post-single { margin: 0 0 20px; }
@@ -474,8 +474,8 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 /* END NAV  */
 #searchformrel {
 	position: absolute;
-	top: 0px;
-	right: 0px;
+	top: 0;
+	right: 0;
 	width: 200px;
 	height: 40px;
 }
@@ -496,7 +496,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 
 #searchformrel #searchsubmit {
 	position: absolute;
-	top: 0px;
+	top: 0;
 	right: 18px;
 	width: 25px;
 	height: 22px;
@@ -519,7 +519,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 #topcat ul li{
 	list-style: none;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 	line-height: 27px;
 	height: 27px;
 	float: left;
@@ -553,7 +553,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 #topnav ul li{
 	list-style: none;
 	margin: 0;
-	padding: 0px;
+	padding: 0;
 	line-height: 50px;
 	height: 50px;
 	float: left;

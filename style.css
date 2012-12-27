@@ -14,7 +14,7 @@ a { text-decoration: none; color: #70c0ff; }
 a img { border: 0; }
 
 a#rsslink {
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -933px -139px ;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -933px -139px ;
 	width: 64px;
 	height: 64px;
 	display: block;
@@ -23,7 +23,7 @@ a#rsslink {
 	left: 20px;
 }
 
-a#rsslink:hover { background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -933px -203px; }
+a#rsslink:hover { background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -933px -203px; }
 
 a:hover { color: #000; }
 
@@ -35,7 +35,7 @@ blockquote { font-style: oblique; padding:10px; background:#dcdcdc;
 
 body {
 	/*background: #6fc5f4 url(images/side-trans.jpg) repeat-y top center;*/
-	background: #6fc5f4 url(https://tydus.googlecode.com/files/side-trans.jpg) repeat-y top center;
+	background: #6fc5f4 url(//tydus.googlecode.com/files/side-trans.jpg) repeat-y top center;
 	font-family: "Trebuchet MS", sans-serif;
 	font-size: 14px;
 	color: #666;
@@ -67,7 +67,7 @@ h2#comments{ margin: 20px auto 10px; font-size: 140%; }
 
 h2.entry-title {
 	font-size: 15px;
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -16px -142px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -16px -142px;
 	height: 95px;
 	overflow: hidden;
 	line-height: 125px;
@@ -81,7 +81,7 @@ h2.entry-title a:hover { color: #000; }
 
 h2.page-title {
 	font-size: 15px;
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -16px -142px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -16px -142px;
 	height: 95px;
 	overflow: hidden;
 	line-height: 125px;
@@ -169,7 +169,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 .block-1 { float: left; }
 
 .block-1 h3.widgettitle {
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -727px -162px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -727px -162px;
 	width: 180px;
 	height: 50px;
     line-height: 48px;
@@ -184,7 +184,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 .block-2 { float: right; margin-right: 10px; }
 
 .block-2 h3.widgettitle {
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -727px -162px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -727px -162px;
 	width: 180px;
 	height: 34px;
 	text-align: left;
@@ -358,7 +358,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 	clear: both;
 	float: none;
 	padding: 0 5px;
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -16px -87px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -16px -87px;
 	line-height: 42px;
 	font-weight: bold;
 	font-size: 12px;
@@ -370,7 +370,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 
 #header {
 	/*background: url(images/header-narrow.jpg) no-repeat 0 0;*/
-	background: url(https://tydus.googlecode.com/files/header-narrow.jpg) no-repeat 0 0;
+	background: url(//tydus.googlecode.com/files/header-narrow.jpg) no-repeat 0 0;
 	height: 250px;
 	margin: 0 auto;
 	overflow: hidden;
@@ -387,7 +387,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 	color: #e7908e;
 	/*background: url(images/desc-right.png) no-repeat right 0;*/
     /* a hack of offset */
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat right -267px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat right -267px;
 	height: 51px;
 	line-height: 57px;
 }
@@ -403,7 +403,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 #header span {
 	display: block;
 	/*background: url(images/desc-left.png) no-repeat left 0;*/
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -257px -327px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -257px -327px;
 	height: 51px;
 	margin-right: 18px;
 	padding-left: 18px;
@@ -511,7 +511,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 #topcat {
 	height: 27px;
 	overflow: hidden;
-	background: #dceffd url(https://tydus.googlecode.com/files/sprites.png) no-repeat -967px -102px;
+	background: #dceffd url(//tydus.googlecode.com/files/sprites.png) no-repeat -967px -102px;
 	padding: 0 0 0 28px;
 	margin-top: 1px;
 }
@@ -547,7 +547,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 	height: 50px;
 	overflow: hidden;
 	position: relative;
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -16px -19px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -16px -19px;
 }
 
 #topnav ul { list-style: none; margin: 0; padding: 0; }
@@ -574,7 +574,7 @@ ul.commentlist, ul.pinglist { margin: 10px 0; }
 }
 
 #topnav ul li a:hover,#topnav ul li.current_page_item a{
-	background: url(https://tydus.googlecode.com/files/sprites.png) no-repeat -15px -267px;
+	background: url(//tydus.googlecode.com/files/sprites.png) no-repeat -15px -267px;
 	text-decoration: none;
 }
 
